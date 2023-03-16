@@ -1,0 +1,5 @@
+D:\Programming\C#\TicTacToeBuild\TicTacToe.exe
+D:\Programming\C#\TicTacToeBuild\TicTacToe.dll
+D:\Programming\C#\TicTacToeBuild\TicTacToe.deps.json
+D:\Programming\C#\TicTacToeBuild\TicTacToe.runtimeconfig.json
+D:\Programming\C#\TicTacToeBuild\TicTacToe.pdb

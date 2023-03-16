@@ -1,0 +1,17 @@
+D:\Programming\C#\TicTacToe\bin\Release\net6.0-windows\TicTacToe.exe
+D:\Programming\C#\TicTacToe\bin\Release\net6.0-windows\TicTacToe.deps.json
+D:\Programming\C#\TicTacToe\bin\Release\net6.0-windows\TicTacToe.runtimeconfig.json
+D:\Programming\C#\TicTacToe\bin\Release\net6.0-windows\TicTacToe.dll
+D:\Programming\C#\TicTacToe\bin\Release\net6.0-windows\ref\TicTacToe.dll
+D:\Programming\C#\TicTacToe\bin\Release\net6.0-windows\TicTacToe.pdb
+D:\Programming\C#\TicTacToe\obj\Release\net6.0-windows\TicTacToe.csproj.AssemblyReference.cache
+D:\Programming\C#\TicTacToe\obj\Release\net6.0-windows\TicTacToe.Form1.resources
+D:\Programming\C#\TicTacToe\obj\Release\net6.0-windows\TicTacToe.csproj.GenerateResource.cache
+D:\Programming\C#\TicTacToe\obj\Release\net6.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\TicTacToe\obj\Release\net6.0-windows\TicTacToe.AssemblyInfoInputs.cache
+D:\Programming\C#\TicTacToe\obj\Release\net6.0-windows\TicTacToe.AssemblyInfo.cs
+D:\Programming\C#\TicTacToe\obj\Release\net6.0-windows\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Programming\C#\TicTacToe\obj\Release\net6.0-windows\TicTacToe.dll
+D:\Programming\C#\TicTacToe\obj\Release\net6.0-windows\ref\TicTacToe.dll
+D:\Programming\C#\TicTacToe\obj\Release\net6.0-windows\TicTacToe.pdb
+D:\Programming\C#\TicTacToe\obj\Release\net6.0-windows\TicTacToe.genruntimeconfig.cache
